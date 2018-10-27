@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: student-services
+Bundle-SymbolicName: student-services
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.in28minutes.springboot,
+ com.in28minutes.springboot.controller,
+ com.in28minutes.springboot.model,
+ com.in28minutes.springboot.service
